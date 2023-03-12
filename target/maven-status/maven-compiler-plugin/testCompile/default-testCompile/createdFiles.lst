@@ -1,0 +1,5 @@
+Page\tagNameExample.class
+MavenPackage\TestMaven\AppTest.class
+Page\LoginPage.class
+TestCase\LoginTest.class
+TestCase\BaseClass.class
